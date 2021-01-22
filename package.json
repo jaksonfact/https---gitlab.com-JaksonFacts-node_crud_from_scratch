@@ -1,0 +1,21 @@
+{
+  "name": "node_crud_from_the_scratch",
+  "version": "1.0.0",
+  "description": "Node_CRUD_From_The_Scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakson savarinathan",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "cars": "^1.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13",
+    "parser": "^0.1.4",
+    "routes": "^2.1.0",
+    "typescript": "^4.1.3"
+  }
+}
